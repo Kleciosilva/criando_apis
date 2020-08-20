@@ -1,5 +1,5 @@
 # Node Store API
-
+ 
 Node Store API This NodeJs API was build along the course "Construindo APIs com NodeJs" in balta.io portal in there was explained some basics API funcionalities like a CRUD for Users, Products, Orders, generate and refresh Json Web Token, user permissions and access privilegies was inplemented.  
 
 
